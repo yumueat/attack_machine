@@ -55,7 +55,8 @@ Ubuntu/Debian
 ```
 apt -y install git
 ```
-![image-20220801043655084](C:\Users\yumu\AppData\Roaming\Typora\typora-user-images\image-20220801043655084.png)
+![image-20220801043655084](https://user-images.githubusercontent.com/87589322/182175017-98c5ed4b-85e7-4691-8ef8-cd27043a2a9c.png)
+
 
 + 拉取项目
 
