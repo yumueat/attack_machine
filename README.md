@@ -63,14 +63,13 @@ apt -y install git
 ```
 git clone https://github.com/yumueat/attack_machine
 ```
-![image-20220801043536998](C:\Users\yumu\AppData\Roaming\Typora\typora-user-images\image-20220801043536998.png)
-
+![image-20220801043536998](https://user-images.githubusercontent.com/87589322/182175379-f2d3f905-d86c-4917-ba3f-0ad23e278bef.png)
 + 给脚本执行权限
 
 ```
 cd attack_machine && chmod +x install.sh 
 ```
-![image-20220801043435956](C:\Users\yumu\AppData\Roaming\Typora\typora-user-images\image-20220801043435956.png)
+![image-20220801043435956](https://user-images.githubusercontent.com/87589322/182175412-66e0db15-fd7c-4a47-abcd-2c7bd468fe46.png)
 
 + 执行脚本
 
@@ -78,11 +77,11 @@ cd attack_machine && chmod +x install.sh
 ./install.sh 
 ```
 
-![image-20220801043310167](C:\Users\yumu\AppData\Roaming\Typora\typora-user-images\image-20220801043310167.png)
+![image-20220801043310167](https://user-images.githubusercontent.com/87589322/182175450-954b5ce0-ed4c-434b-b80a-86c08f3579fc.png)
 
 + 脚本结束后会直接进入容器，我设置的root用户的默认密码为root，输入密码即可进入
 
-![image-20220801043937073](C:\Users\yumu\AppData\Roaming\Typora\typora-user-images\image-20220801043937073.png)
+![image-20220801043937073](https://user-images.githubusercontent.com/87589322/182175497-1e36aec6-499b-4c5b-9d2c-4cc9fb29f63f.png)
 
 + Enjoy it
 
