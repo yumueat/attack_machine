@@ -25,6 +25,5 @@ done
 ${PACKAGE_UPDATE[int]}
 ${PACKAGE_INSTALL[int]} curl 
 curl -fsSL https://get.docker.com | bash -s docker
-docker ps
 docker pull 18188888/yumu-kali:v1.0
 docker run --name kali --privileged=true -p 8834:8834 -it 18188888/yumu-kali:v1.0 /sbin/init
